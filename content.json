@@ -1,0 +1,392 @@
+{
+  "v": 2,
+  "hidden": [],
+  "profile": {
+    "nickname": "Apple",
+    "persona": "Honey Fried Apple",
+    "tagline": "books, songs, colors, cute characters, and little happy moments 🍎",
+    "bio": "Hi, welcome to my little orchard! I'm Apple 🍎 — Honey Fried Apple if you're feeling fancy. I love reading, collecting songs, pretty color combos, fictional characters, and writing little things. Poke around and get to know me a bit 💌",
+    "photo": "",
+    "sideLeft": "\"you're the apple of my eye\" means someone is cherished—",
+    "sideRight": "—deeply loved, and held in higher regard than almost anyone else.",
+    "facts": [
+      "🍯 full name: Honey Fried Apple",
+      "📚 always in the middle of a book",
+      "🎧 has a song on repeat at all times",
+      "✍️ writes way too many notes",
+      "🎭 cosplays sometimes",
+      "🗣️ loves learning languages"
+    ]
+  },
+  "palette": [
+    {
+      "name": "Cranberry Red",
+      "hex": "#A4153E"
+    },
+    {
+      "name": "Blush Snow",
+      "hex": "#FFCFDE"
+    },
+    {
+      "name": "Plum Night",
+      "hex": "#401B4C"
+    },
+    {
+      "name": "Frosted Lilac",
+      "hex": "#DCCBFF"
+    }
+  ],
+  "playlists": [
+    {
+      "label": "YouTube Music",
+      "url": ""
+    },
+    {
+      "label": "Spotify",
+      "url": ""
+    }
+  ],
+  "songs": [
+    {
+      "title": "Song title #1",
+      "artist": "Artist name",
+      "mood": "on repeat lately",
+      "link": ""
+    },
+    {
+      "title": "Song title #2",
+      "artist": "Artist name",
+      "mood": "study mode",
+      "link": ""
+    },
+    {
+      "title": "Song title #3",
+      "artist": "Artist name",
+      "mood": "rainy evenings",
+      "link": ""
+    },
+    {
+      "title": "Song title #4",
+      "artist": "Artist name",
+      "mood": "main character walk",
+      "link": ""
+    },
+    {
+      "title": "Song title #5",
+      "artist": "Artist name",
+      "mood": "comfort song",
+      "link": ""
+    },
+    {
+      "title": "Song title #6",
+      "artist": "Artist name",
+      "mood": "late night drive",
+      "link": ""
+    }
+  ],
+  "shelves": [
+    {
+      "name": "Novels"
+    },
+    {
+      "name": "Comics"
+    },
+    {
+      "name": "Movies & Anime"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Novel I Love",
+      "author": "Author name",
+      "shelf": "Novels",
+      "rating": 5,
+      "note": "Tell people why this one stuck with you.",
+      "color": "#A4153E",
+      "cover": ""
+    },
+    {
+      "title": "Currently Reading",
+      "author": "Author name",
+      "shelf": "Novels",
+      "rating": 4,
+      "note": "What it's about and how you feel so far.",
+      "color": "#401B4C",
+      "cover": ""
+    },
+    {
+      "title": "Comfort Re-read",
+      "author": "Author name",
+      "shelf": "Novels",
+      "rating": 5,
+      "note": "The book you always come back to.",
+      "color": "#C2577A",
+      "cover": ""
+    },
+    {
+      "title": "Non-fiction Fave",
+      "author": "Author name",
+      "shelf": "Novels",
+      "rating": 4,
+      "note": "A book that made you think differently.",
+      "color": "#7A4A8C",
+      "cover": ""
+    },
+    {
+      "title": "Comic Series #1",
+      "author": "Author name",
+      "shelf": "Comics",
+      "rating": 5,
+      "note": "Why you love this comic.",
+      "color": "#D98BA6",
+      "cover": ""
+    },
+    {
+      "title": "Comic Series #2",
+      "author": "Author name",
+      "shelf": "Comics",
+      "rating": 4,
+      "note": "Why you love this comic.",
+      "color": "#A4153E",
+      "cover": ""
+    },
+    {
+      "title": "Manga I Binge",
+      "author": "Author name",
+      "shelf": "Comics",
+      "rating": 5,
+      "note": "Why you love it.",
+      "color": "#401B4C",
+      "cover": ""
+    },
+    {
+      "title": "Favorite Anime",
+      "author": "Studio",
+      "shelf": "Movies & Anime",
+      "rating": 5,
+      "note": "Why you love it.",
+      "color": "#7A4A8C",
+      "cover": ""
+    },
+    {
+      "title": "Favorite Movie",
+      "author": "Director",
+      "shelf": "Movies & Anime",
+      "rating": 5,
+      "note": "Why you love it.",
+      "color": "#C2577A",
+      "cover": ""
+    },
+    {
+      "title": "Comfort Watch",
+      "author": "Studio",
+      "shelf": "Movies & Anime",
+      "rating": 4,
+      "note": "Why you love it.",
+      "color": "#A4153E",
+      "cover": ""
+    }
+  ],
+  "characters": [
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "🌸",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "⚔️",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "🌙",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "🍓",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "🎀",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "🔥",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "⭐",
+      "photo": ""
+    },
+    {
+      "name": "Character name",
+      "from": "From which story",
+      "why": "Why you love them — their vibe, their arc, that one scene...",
+      "emoji": "🦋",
+      "photo": ""
+    }
+  ],
+  "cosplay": [
+    {
+      "character": "Cosplay #1",
+      "event": "Event name",
+      "year": "2025",
+      "story": "How it went, what you made yourself, funny moments...",
+      "photo": ""
+    },
+    {
+      "character": "Cosplay #2",
+      "event": "Event name",
+      "year": "2026",
+      "story": "Tell the story here.",
+      "photo": ""
+    },
+    {
+      "character": "Dream cosplay",
+      "event": "someday!",
+      "year": "",
+      "story": "The character you want to cosplay next.",
+      "photo": ""
+    }
+  ],
+  "inspo": [
+    {
+      "text": "red everything",
+      "photo": "",
+      "emoji": "🍎",
+      "size": "L",
+      "note": false
+    },
+    {
+      "text": "stars & sparkles",
+      "photo": "",
+      "emoji": "✨",
+      "size": "M",
+      "note": false
+    },
+    {
+      "text": "film photos",
+      "photo": "",
+      "emoji": "📷",
+      "size": "S",
+      "note": false
+    },
+    {
+      "text": "handwritten notes",
+      "photo": "",
+      "emoji": "💌",
+      "size": "M",
+      "note": false
+    },
+    {
+      "text": "be kind, be curious, be brave.",
+      "photo": "",
+      "emoji": "",
+      "size": "M",
+      "note": true
+    },
+    {
+      "text": "cherries + ribbons",
+      "photo": "",
+      "emoji": "🎀",
+      "size": "S",
+      "note": false
+    }
+  ],
+  "languages": [
+    {
+      "name": "Bahasa Indonesia",
+      "level": 5,
+      "note": "native"
+    },
+    {
+      "name": "English",
+      "level": 4,
+      "note": "daily use"
+    },
+    {
+      "name": "A language I'm learning",
+      "level": 1,
+      "note": "just started! 🌱"
+    }
+  ],
+  "studies": [
+    {
+      "name": "Bioinformatics",
+      "note": "Where biology meets code — DNA, data, and lots of debugging."
+    },
+    {
+      "name": "Data Science",
+      "note": "Finding little stories hidden in numbers."
+    },
+    {
+      "name": "People & Environment",
+      "note": "How data can help communities and the planet."
+    },
+    {
+      "name": "First Aid & Volunteering",
+      "note": "Staying calm and helping people when it matters."
+    }
+  ],
+  "writings": [
+    {
+      "title": "My first page",
+      "date": "Nov 2026",
+      "body": "Write anything here — a poem, a short essay, a diary entry, a thought you had on the bus.\n\nNew lines work too, and long writings get their own scroll inside the page."
+    },
+    {
+      "title": "Things I learned this year",
+      "date": "2026",
+      "body": "1. ...\n2. ...\n3. ..."
+    },
+    {
+      "title": "A letter to my future self",
+      "date": "someday",
+      "body": "Dear future me, ..."
+    },
+    {
+      "title": "A little poem",
+      "date": "",
+      "body": "Write your poem here ✨"
+    }
+  ],
+  "motivations": [
+    "Slow progress is still progress.",
+    "You don't have to bloom all at once.",
+    "Be the apple of your own eye.",
+    "Rest is part of the work, too.",
+    "Curiosity is a superpower — use it.",
+    "Try, fail, laugh, try again.",
+    "Small steps, every single day.",
+    "Kindness is always in style."
+  ],
+  "links": [
+    {
+      "label": "Instagram",
+      "url": ""
+    },
+    {
+      "label": "Email",
+      "url": ""
+    }
+  ]
+}
